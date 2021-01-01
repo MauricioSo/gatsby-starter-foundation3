@@ -1,11 +1,11 @@
 ---
 template: index-page
 slug: /
-title: How to improve your ecommerce strategy?
-tagline: ecommerce
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Como mejorara la redacción?
+tagline: escritura
+featuredImage: /assets/alexander-andrews-zw07kvdahpw-unsplash.jpg
 cta:
-  ctaText: Know more
+  ctaText: Saber más
   ctaLink: /about
 ---
-Every game can be cracked. Every game can be reduced to simple ideas and master.
+Cada vez que se escribe una letra, se abre una posibilidad de pensar. Esta letra debe tener vida.
